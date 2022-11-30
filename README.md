@@ -12,7 +12,6 @@ Usage:
 > -allusers       : finds APP_NAME in all user profiles
 
 >-provisioned    : finds APP_NAME in win image
+if found here, new user will get APP_NAME provisioned to his users profile
 
-                  if found here, new user will get APP_NAME provisioned to his users profile
-				  
-> -remove         : removes APP_NAME from all places found 
+>-remove         : removes APP_NAME from all places found 
